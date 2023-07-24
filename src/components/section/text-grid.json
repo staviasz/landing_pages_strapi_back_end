@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_section_text_grids",
+  "info": {
+    "displayName": "text-grid"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "minLength": 3,
+      "maxLength": 255
+    },
+    "description": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
